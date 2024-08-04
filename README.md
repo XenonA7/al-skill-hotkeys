@@ -1,11 +1,11 @@
 # al-skill-hotkeys
 Adds two hotkeys to provide easy access to Arcane Lab custom skills.
 
-Requires Nax Module Cache and Arcane Lab:
-https://github.com/conorlawton/nax-module-cache
-https://github.com/2hh8899/ArcaneLab/tree/dev
-
 ![image](https://github.com/user-attachments/assets/90e50275-b613-418a-bcf9-f42cbc78e650)
+
+### Dependencies
+  * https://github.com/conorlawton/nax-module-cache
+  * https://github.com/2hh8899/ArcaneLab/tree/dev
 
 ### Custom Skill Menu
 This hotkey opens the custom skill menu so you can change your custom skill loadout. Anytime, anywhere. Even during combat.
