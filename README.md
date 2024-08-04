@@ -1,5 +1,5 @@
 # al-skill-hotkeys
-Adds two hotkeys to provide easy access to Arcane Lab custom skills.
+Adds two hotkeys that provide easy access to Arcane Lab custom skills.
 
 ![image](https://github.com/user-attachments/assets/90e50275-b613-418a-bcf9-f42cbc78e650)
 
