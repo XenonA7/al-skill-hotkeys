@@ -1,0 +1,27 @@
+{
+  "id": "al-cs-hotkeys",
+  "version": "1.0.0",
+  "title": {
+    "en_US": "AL Skill Hotkeys",
+    "de_DE": "AL Skill Hotkeys",
+    "fr_FR": "AL Skill Hotkeys",
+    "zh_CN": "AL Skill Hotkeys",
+    "zh_TW": "AL Skill Hotkeys",
+    "ja_JP": "AL Skill Hotkeys",
+    "ko_KR": "AL Skill Hotkeys"
+  },
+  "description": {
+    "en_US": "Adds hotkeys for custom skill menu and toggle (default \\c[3]X\\c[0] and \\c[3]C\\c[0])."
+  },
+  "icons": {
+    "24": "icon.png"
+  },
+  "repository": "https://github.com/XenonA7/al-skill-hotkeys",
+  "tags": ["QoL"],
+  "authors": ["XenonA7", "Lubkuluk", "nax"],
+  "plugin": "al-cs-hotkeys/plugin.js",
+  "dependencies": {
+    "nax-module-cache": ">=1.0.0",
+    "arcane-lab": ">=0.1.0"
+  }
+}

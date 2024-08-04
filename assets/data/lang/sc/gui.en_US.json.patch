@@ -1,0 +1,12 @@
+{
+	"labels": {
+		"options": {
+			"controls": {
+				"keys": {
+					"al-skill-toggle": "Custom Skill Toggle",
+					"al-menu-open": "Custom Skill Menu"
+				}
+			}
+		}
+	}
+}

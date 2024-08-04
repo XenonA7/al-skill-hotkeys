@@ -1,0 +1,70 @@
+{
+  "EFFECTS": {
+    "alSkillToggle": [
+      {
+        "volume": 0.75,
+        "global": false,
+        "loop": false,
+        "speed": 1.5,
+        "sound": "media/sound/upgrade/blow-fast.ogg",
+        "type": "PLAY_SOUND"
+      },
+      {
+        "size": "XL",
+        "fadeIn": 0.1,
+        "fadeOut": 0.5,
+        "duration": 0.3,
+        "glow": false,
+        "type": "LIGHT"
+      },
+      {
+        "color": "#5CFC49",
+        "alpha": 0.75,
+        "fadeIn": 0.1,
+        "fadeOut": 0.3,
+        "duration": 0.1,
+        "noLighter": false,
+        "type": "FADE_COLOR"
+      },
+      {
+        "numParticles": 12,
+        "duration": 0.15,
+        "centralAngle": 1,
+        "startDist": 0,
+        "random": true,
+        "moveDist": 64,
+        "moveVariance": 32,
+        "keySpline": "EASE_OUT",
+        "moveRotate": 0,
+        "collision": false,
+        "pScale": {
+          "init": {
+            "x": 1,
+            "y": 0
+          },
+          "start": {
+            "value": {
+              "x": 1,
+              "y": 1
+            },
+            "time": 0.1,
+            "spline": "EASE_OUT"
+          },
+          "end": {
+            "value": {
+              "x": 1,
+              "y": 0
+            },
+            "time": 0.05,
+            "spline": ""
+          }
+        },
+        "moveWithTarget": 1,
+        "particleDuration": 0.4,
+        "particleDurVariance": 0.15,
+        "anim": "HACKING_S_G",
+        "type": "OFFSET_PARTICLE_CIRCLE"
+      }
+    ]
+  }
+}
